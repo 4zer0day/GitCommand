@@ -5,4 +5,4 @@
 2) git add. //Means you wanna add all files ofc .gitignore dont forget
 4) git commit -m "Insert Description Here"
 5) git reset //To reset back the file that you add 
-6) user commmand from github to push it to github
+6) use commmand from github to push it to github
